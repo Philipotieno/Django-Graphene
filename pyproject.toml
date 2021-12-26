@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "graphql"
+version = "0.1.0"
+description = ""
+authors = ["philipotieno <iamphilipotieno@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+psycopg2-binary = "^2.9.2"
+djangorestframework = "^3.13.1"
+pre-commit = "^2.16.0"
+black = "^21.12b0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
