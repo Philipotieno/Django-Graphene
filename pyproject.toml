@@ -11,6 +11,8 @@ psycopg2-binary = "^2.9.2"
 djangorestframework = "^3.13.1"
 pre-commit = "^2.16.0"
 black = "^21.12b0"
+graphene-django = "^2.15.0"
+Django = "3.2.9"
 
 [tool.poetry.dev-dependencies]
 
