@@ -271,3 +271,4 @@ disable =
   E0401, #Unable to import 'django.core.asgi' (import-error)
   W0611, # Unused %s imported from %s (unused-import)
   C0415,
+  E0611, #No name 'Deck' in module 'apps.decks.models'
