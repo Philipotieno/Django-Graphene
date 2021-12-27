@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "graphene_django",
     "apps.users",
+    "apps.decks",
+    "apps.cards",
+    "apps.utils",
 ]
 
 MIDDLEWARE = [
